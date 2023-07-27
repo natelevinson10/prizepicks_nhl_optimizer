@@ -12,4 +12,5 @@ To use this tool, navigate to https://api.prizepicks.com/projections?league_id=8
 
 
 (ex. output from real data with statline Shots on Goal)
+format : Name | Prob. of going OVER line | Prizepicks line | Array of last 10 games of statline from player
 ![image](https://github.com/natelevinson10/prizepicks_nhl_optimizer/assets/78764811/5fe8fadd-7ca8-470d-bad7-656b53702263)
